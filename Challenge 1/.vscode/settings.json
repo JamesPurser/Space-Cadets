@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Desktop\\OneDrive\\Documents\\Datasets and Libraries\\Java Libraries\\JSoup V. 1.13.1.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Desktop\\Downloads\\jsoup-1.13.1.jar"
+        ]
+    }
+}
