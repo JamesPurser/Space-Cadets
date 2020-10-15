@@ -6,3 +6,5 @@ This is an interpreter for the BareBones programming language, I have made some 
 4. All while loops run until a specific number is reached by a specificed variables.
 
 There is a sample code provided that has the function of multiplying two numbers together, this was provided by the university to test the efficacy of the program.
+
+Both a version with, and without a basic GUI has been provided.
