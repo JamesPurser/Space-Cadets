@@ -1,0 +1,1 @@
+This code will take a given user's email, extract he email ID, and then use the Southampton ECS department's staff list to find the name of the user. The email is provided as an input via the eponymous file.
