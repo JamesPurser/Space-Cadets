@@ -1,10 +1,10 @@
 This is an interpreter for my extended version of the BareBones programming language, the syntax and functions are set out below.
 
 1. All lines must end in a semicolon.
-2. Variables are wither integers or strings.
-3. All integers must be greater then 0.
+2. Variables are either integers or strings.
+3. Basic operators are added (+, -, *, /)
 4. All while loops run until a specific number is reached by a specificed variables.
+5. Variables are explicitly defined.
+6. Variables are cast to a new type by assigning them to a variable of that type.
 
-There is a sample code provided that has the function of multiplying two numbers together, this was provided by the university to test the efficacy of the program.
-
-Both a version with, and without a basic GUI has been provided.
+There is a sample code provided that has the function of multiplying two numbers together.
