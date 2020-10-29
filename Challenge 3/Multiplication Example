@@ -1,0 +1,7 @@
+#creates the necesssary variables with their requisite variables
+asg int X 5;
+asg int Y 3;
+asg int Z 0;
+
+#multiplies the values in X and Y and stores the result in Z
+mul Z Y X;
