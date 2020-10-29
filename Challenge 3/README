@@ -6,5 +6,6 @@ This is an interpreter for my extended version of the BareBones programming lang
 4. All while loops run until a specific number is reached by a specificed variables.
 5. Variables are explicitly defined.
 6. Variables are cast to a new type by assigning them to a variable of that type.
+7. Only single line comments are valid, and are done by wither starting the line with, or writing at the end of a line a #.
 
 There is a sample code provided that has the function of multiplying two numbers together.
