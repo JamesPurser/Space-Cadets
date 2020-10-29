@@ -1,0 +1,10 @@
+This is an interpreter for the BareBones programming language, I have made some basic assumptions, as listed below, on the syntax and structure of the language.
+
+1. All lines must end in a semicolon.
+2. All variables bust be integers.
+3. All integers must be greater then 0.
+4. All while loops run until a specific number is reached by a specificed variables.
+
+There is a sample code provided that has the function of multiplying two numbers together, this was provided by the university to test the efficacy of the program.
+
+Both a version with, and without a basic GUI has been provided.
